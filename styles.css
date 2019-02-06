@@ -1,0 +1,15 @@
+.advertisement {
+    display: flex;
+    justify-content: space-around;
+}
+img {
+    width: 250px;
+    height: 300px;
+}
+
+.header {
+    border: 20px solid purple;
+}
+.donate{ 
+    text-align: center;
+}
